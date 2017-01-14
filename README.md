@@ -2,7 +2,7 @@
 
 For a range of personal and practical reasons (and since its so *easy*) I have decided to open this blog on music.  We'll see if it leads anywhere.
 
-* [Lilypond]() is a variant of **Scheme** and a great programming language to learn and use.  
+* [Lilypond](http://lilypond.org/) is a variant of **Scheme** (itself a variant of [Lisp](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)) and a great programming language to learn and use.  
 * There is the [Haskell School of Music](http://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) 
 * I do not have a music resource in `ML` in order to complete the trifecta
 
